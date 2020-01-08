@@ -7,7 +7,7 @@ production ready web service which combines two existing web services
 This Project should match these requirments
 
 * Rails Version  4.2.5.1
-* Database - sqllite3
+* Database - PostgreSQL
 * GEM - httparty
 
 ### Project Setup
